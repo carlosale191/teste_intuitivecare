@@ -9,4 +9,5 @@ Resolução de teste prática da Intuitive Care. Consiste nas etapas:
 - Python
 - Selenium, Pyautogui
 - Jupyter, Pandas
-- Flask
+- SQLite
+- Flask, Postman
